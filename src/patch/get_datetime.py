@@ -8,7 +8,7 @@ from src.core.image_read import LandCoverBuilder
 
 if __name__ == "__main__":
     folder_ = "/ds/images/AI4EO/multi/landcovernet/"
-    output_dir = f"{folder_}/metadata_dates"
+    output_dir = f"{folder_}/metadata"
     continent = "eu"
     
     LC_build = LandCoverBuilder(f"{folder_}/ref_landcovernet_{continent}_v1")
@@ -44,7 +44,7 @@ if __name__ == "__main__":
     for view_n in view_names:
         aux_save = pd.concat(df_meta_viewn_patches[view_n], axis=0)
         aux_save = aux_save[["patch_id","dates","year","month","day","full_name","full_path"]]
-        aux_save.to_csv(f"{output_dir}/{continent}/{view_n}_overall_info.csv",index=False)
-        print(f"Finish and stored {view_n} into {output_dir}/{continent}/{view_n}_overall_info.csv")
+        aux_save.to_csv(f"{output_dir}/{continent}/{view_n}_dates_overall.csv",index=False)
+        print(f"Finish and stored {view_n} into {output_dir}/{continent}/{view_n}_dates_overall.csv")
 
     print("Finish datetime calculation")

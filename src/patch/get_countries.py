@@ -21,7 +21,7 @@ if __name__ == "__main__":
     #usually executed after having region label metadata
     
     folder_ = "/ds/images/AI4EO/multi/landcovernet/"
-    metadata_folder_ = "./metadata_dates"
+    metadata_folder_ = "./metadata"
     output_dir = "./split_samples"
     continent = "eu"
 
@@ -36,7 +36,7 @@ if __name__ == "__main__":
         countries_i = searching_overlap_countries(data_i["bbox"])
         countries_id[data_i["identifier"]] = countries_i
 
-    info_sum_f_rel = pd.read_csv(f"{metadata_folder_}/{continent}/region_label_freq.csv", index_col=0)/(256*256)
+    info_sum_f_rel = pd.read_csv(f"{metadata_folder_}/{continent}/region_label_freq.csv", index_col=0)
 
     info_countries = pd.merge(pd.concat(countries_id).reset_index().set_index("level_0").drop("level_1", axis=1), info_sum_f_rel,right_index=True,left_index=True )
     info_countries.to_csv(f"{output_dir}/{continent}/info_countries.csv")
