@@ -14,8 +14,8 @@ def create_pandas_auxiliar(targets_info_, label_names_):
 
 if __name__ == "__main__":
     folder_ = "/ds/images/AI4EO/multi/landcovernet/"
-    output_dir = f"{folder_}/metadata""
-    continent = "eu"
+    output_dir = f"{folder_}/metadata"
+    continent = "as"
 
     LC_build = LandCoverBuilder(f"{folder_}/ref_landcovernet_{continent}_v1")
     label_names_ = LC_build.get_labels_name()

@@ -3,6 +3,7 @@ import pandas as pd
 import pathlib
 from country_bounding_boxes import countries #https://github.com/graydon/country-bounding-boxes
 from shapely.geometry import Polygon
+import os
 
 from src.core.image_read import LandCoverBuilder
 
@@ -23,11 +24,7 @@ if __name__ == "__main__":
     folder_ = "/ds/images/AI4EO/multi/landcovernet/"
     metadata_folder_ = "./metadata"
     output_dir = "./split_samples"
-    continent = "eu"
-
-    #print(pathlib.Path(__file__).parent.resolve())
-    #print(pathlib.Path().resolve())
-
+    continent = "sa"
 
     LC_build = LandCoverBuilder(f"{folder_}/ref_landcovernet_{continent}_v1")
     countries_id = {}
@@ -36,8 +33,11 @@ if __name__ == "__main__":
         countries_i = searching_overlap_countries(data_i["bbox"])
         countries_id[data_i["identifier"]] = countries_i
 
-    info_sum_f_rel = pd.read_csv(f"{metadata_folder_}/{continent}/region_label_freq.csv", index_col=0)
+    info_countries = pd.concat(countries_id).reset_index().set_index("level_0").drop("level_1", axis=1)
+    info_countries[["Region","Subregion","Country"]].to_csv(f"{metadata_folder_}/{continent}/info_countries.csv")
+    print(f"Finished and saved into: {metadata_folder_}/{continent}/info_countries.csv")
 
-    info_countries = pd.merge(pd.concat(countries_id).reset_index().set_index("level_0").drop("level_1", axis=1), info_sum_f_rel,right_index=True,left_index=True )
-    info_countries.to_csv(f"{output_dir}/{continent}/info_countries.csv")
-    print(f"Finished and saved into: {output_dir}/{continent}/info_countries.csv")
+    if os.path.isfile(f"{metadata_folder_}/{continent}/region_label_freq.csv"):
+        info_sum_f_rel = pd.read_csv(f"{metadata_folder_}/{continent}/region_label_freq.csv", index_col=0)
+        pd.merge(info_countries, info_sum_f_rel,right_index=True,left_index=True ).to_csv(f"{output_dir}/{continent}/info_countries.csv")
+        print(f"Finished and saved into: {output_dir}/{continent}/info_countries.csv")

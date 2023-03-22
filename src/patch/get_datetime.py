@@ -9,7 +9,7 @@ from src.core.image_read import LandCoverBuilder
 if __name__ == "__main__":
     folder_ = "/ds/images/AI4EO/multi/landcovernet/"
     output_dir = f"{folder_}/metadata"
-    continent = "eu"
+    continent = "sa"
     
     LC_build = LandCoverBuilder(f"{folder_}/ref_landcovernet_{continent}_v1")
     print("Dataset contains ",len(LC_build), " patches, where skipping equals to ", LC_build.skip_labels)
@@ -19,7 +19,7 @@ if __name__ == "__main__":
     views = {v:[] for v in view_names}
     df_meta_viewn_patches = {v:[] for v in view_names}
     for i in tqdm(range(len(LC_build)),total = len(LC_build)):
-        patch_i = LC_build[i]
+        patch_i = LC_build.get_dates(i)
         
         identifier = patch_i["id"]
         Path(f"{output_dir}/{continent}/{identifier}").mkdir(parents=True, exist_ok=True)

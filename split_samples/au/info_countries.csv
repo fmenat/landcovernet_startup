@@ -1,0 +1,601 @@
+,Region,Subregion,Country,No Data,Water,Artificial Bareground,Natural Bareground,Permanent Snow/Ice,Woody Vegetation,Cultivated Vegetation,(Semi) Natural Vegetation
+59GNM_07,Oceania,Australia and New Zealand,New Zealand,0,0,1,0,0,3092,0,62443
+52KCU_12,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNM_00,Oceania,Australia and New Zealand,New Zealand,0,65536,0,0,0,0,0,0
+52KCU_15,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KCU_23,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNM_09,Oceania,Australia and New Zealand,New Zealand,0,1075,218,0,31,512,63562,138
+52KCU_24,Oceania,Australia and New Zealand,Australia,18,0,0,20064,0,0,0,45454
+55JFN_19,Oceania,Australia and New Zealand,Australia,7,0,1014,0,0,144,31056,33315
+55JFN_26,Oceania,Australia and New Zealand,Australia,122,85,22,0,0,59725,57,5525
+55JFN_21,Oceania,Australia and New Zealand,Australia,0,22,10,0,0,62688,154,2662
+55JFN_28,Oceania,Australia and New Zealand,Australia,1,0,40,0,0,43690,733,21072
+55JFN_17,Oceania,Australia and New Zealand,Australia,0,63,625,0,0,6091,7712,51045
+55JFN_10,Oceania,Australia and New Zealand,Australia,3,257,8,0,0,65266,0,2
+52KCU_25,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KCU_22,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNM_08,Oceania,Australia and New Zealand,New Zealand,8,18,337,0,0,1631,63477,65
+59GNM_01,Oceania,Australia and New Zealand,New Zealand,10,553,51771,0,14,3466,8036,1686
+52KCU_14,Oceania,Australia and New Zealand,Australia,1,0,0,0,0,0,0,65535
+59GNM_06,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,26,0,65510
+52KCU_13,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+55JFN_11,Oceania,Australia and New Zealand,Australia,29,3,0,0,0,63157,151,2196
+55JFN_29,Oceania,Australia and New Zealand,Australia,0,0,5409,0,0,684,43075,16368
+55JFN_16,Oceania,Australia and New Zealand,Australia,0,0,19,0,0,65511,0,6
+55JFN_20,Oceania,Australia and New Zealand,Australia,0,1436,88,0,0,2465,9195,52352
+55JFN_18,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65534,2,0
+55JFN_27,Oceania,Australia and New Zealand,Australia,2,22,294,0,0,32582,7005,25631
+51KWR_29,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_09,Oceania,Australia and New Zealand,Australia,0,0,996,0,0,0,0,64540
+51KWR_16,Oceania,Australia and New Zealand,Australia,0,0,0,33792,0,0,0,31744
+51JXH_11,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,788,0,64748
+51JXH_29,Oceania,Australia and New Zealand,Australia,0,0,0,4093,0,0,0,61443
+51JXH_16,Oceania,Australia and New Zealand,Australia,0,0,0,3072,0,0,0,62464
+51KWR_11,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_18,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_07,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_27,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_20,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,4,0,65532
+51JXH_18,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_27,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_20,Oceania,Australia and New Zealand,Australia,0,0,0,32863,0,0,0,32673
+51JXK_00,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+55JBF_25,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,2805,0,62731
+59GLK_19,Oceania,Australia and New Zealand,New Zealand,9,0,0,0,0,470,0,65057
+54KUF_06,Oceania,Australia and New Zealand,Australia,1,0,0,0,0,34862,0,30673
+54HYE_21,Oceania,Australia and New Zealand,Australia,0,0,232,0,0,309,63967,1028
+55HEU_29,Oceania,Australia and New Zealand,Australia,11,10,28,0,0,13976,275,51236
+52KDU_24,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54LWJ_20,Oceania,Australia and New Zealand,Australia,0,5111,0,1,0,11191,0,49233
+53JMG_03,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,25132,0,40404
+59GLK_26,Oceania,Australia and New Zealand,New Zealand,12,0,135,0,0,3195,61453,741
+56JMS_12,Oceania,Australia and New Zealand,Australia,0,0,7,0,0,33277,134,32118
+52JGL_14,Oceania,Australia and New Zealand,Australia,0,9258,0,722,0,0,0,55556
+55HEU_16,Oceania,Australia and New Zealand,Australia,73,16,1470,0,0,1389,28975,33613
+54KYA_01,Oceania,Australia and New Zealand,Australia,0,0,1025,63487,0,0,0,1024
+52KDU_23,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KUF_01,Oceania,Australia and New Zealand,Australia,0,0,0,65536,0,0,0,0
+54HYE_26,Oceania,Australia and New Zealand,Australia,0,121,1963,0,0,6141,34094,23217
+54LWJ_18,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,29035,0,36501
+59GLL_09,Oceania,Australia and New Zealand,New Zealand,7,0,4370,0,0,46,53047,8066
+55JBF_22,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,2399,0,63137
+54KYA_06,Oceania,Australia and New Zealand,Australia,0,0,17188,25618,0,8619,0,14111
+55HEU_11,Oceania,Australia and New Zealand,Australia,9,25,379,0,0,8304,22533,34286
+52JGL_13,Oceania,Australia and New Zealand,Australia,0,0,46,0,0,5753,0,59737
+59GLK_21,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,17040,36487,12009
+56JMS_15,Oceania,Australia and New Zealand,Australia,0,24,109,0,0,5295,129,59979
+54LWJ_27,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,4922,0,60614
+53JMG_04,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,5430,0,60106
+59GNP_09,Oceania,Australia and New Zealand,New Zealand,11,277,1,0,0,30729,31244,3274
+54HYE_19,Oceania,Australia and New Zealand,Australia,0,0,126,0,0,22838,42206,366
+55HEU_18,Oceania,Australia and New Zealand,Australia,1,3098,2127,0,0,49232,8506,2572
+52KDU_15,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLK_28,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,25178,364,39994
+55JBF_14,Oceania,Australia and New Zealand,Australia,36,0,0,42,0,32065,0,33393
+59GNP_00,Oceania,Australia and New Zealand,New Zealand,0,65536,0,0,0,0,0,0
+54HYE_10,Oceania,Australia and New Zealand,Australia,0,0,270,0,0,1936,51457,11873
+52JGL_25,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+55HEU_27,Oceania,Australia and New Zealand,Australia,80,197,2058,49,0,11442,29374,22336
+54LWJ_11,Oceania,Australia and New Zealand,Australia,0,13442,0,0,0,19411,0,32683
+54KUF_08,Oceania,Australia and New Zealand,Australia,0,0,0,8590,0,150,0,56796
+59GLL_00,Oceania,Australia and New Zealand,New Zealand,0,65536,0,0,0,0,0,0
+56JMS_23,Oceania,Australia and New Zealand,Australia,2,0,311,0,0,59022,6076,125
+52KHU_05,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLK_17,Oceania,Australia and New Zealand,New Zealand,145,67,0,0,387,52280,2,12655
+54LWJ_29,Oceania,Australia and New Zealand,Australia,35,0,0,0,0,48543,0,16958
+59GNP_07,Oceania,Australia and New Zealand,New Zealand,45,83,11,71,0,61951,116,3259
+54HYE_17,Oceania,Australia and New Zealand,Australia,1,24,290,0,0,47166,17562,493
+55JBF_13,Oceania,Australia and New Zealand,Australia,2,0,0,8515,0,171,0,56848
+52KDU_12,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KYA_08,Oceania,Australia and New Zealand,Australia,0,0,30555,7041,0,12,0,27928
+56JMS_24,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,36579,291,28666
+52KHU_02,Oceania,Australia and New Zealand,Australia,7,0,2,58368,0,0,0,7159
+59GLK_10,Oceania,Australia and New Zealand,New Zealand,0,0,24,0,6,25109,0,40397
+59GLL_07,Oceania,Australia and New Zealand,New Zealand,0,167,3,0,16,49678,0,15672
+54HYE_28,Oceania,Australia and New Zealand,Australia,0,0,6,0,0,428,60607,4495
+54LWJ_16,Oceania,Australia and New Zealand,Australia,0,263,0,0,0,33331,0,31942
+55HEU_20,Oceania,Australia and New Zealand,Australia,0,0,54,0,0,65482,0,0
+52JGL_22,Oceania,Australia and New Zealand,Australia,0,0,0,34816,0,0,0,30720
+51JXH_19,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,8,0,65528
+51JXK_01,Oceania,Australia and New Zealand,Australia,27,0,0,0,0,0,0,65509
+51JXH_26,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_21,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_19,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_26,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_21,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,59,0,65477
+51JXK_06,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_28,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_17,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,104,0,65432
+51KWR_10,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_08,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_28,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_17,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_10,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,153,0,65383
+52KDU_13,Oceania,Australia and New Zealand,Australia,0,0,0,2202,0,0,0,63334
+54KYA_09,Oceania,Australia and New Zealand,Australia,0,0,44249,7400,0,920,0,12967
+54HYE_16,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,40424,24400,712
+59GNP_06,Oceania,Australia and New Zealand,New Zealand,83,5100,206,119,0,21968,36528,1532
+54LWJ_28,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,5973,0,59563
+55JBF_12,Oceania,Australia and New Zealand,Australia,35,0,0,9403,0,1778,0,54320
+55HEU_21,Oceania,Australia and New Zealand,Australia,4,0,72,0,0,65329,51,80
+52JGL_23,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLL_06,Oceania,Australia and New Zealand,New Zealand,0,0,7,0,0,4077,0,61452
+52KHU_03,Oceania,Australia and New Zealand,Australia,4,0,0,10213,0,51754,0,3565
+56JMS_25,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,29019,286,36231
+59GLK_11,Oceania,Australia and New Zealand,New Zealand,2,2,78,0,0,17599,6910,40945
+54LWJ_17,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,46435,0,19101
+54HYE_29,Oceania,Australia and New Zealand,Australia,0,0,14,0,0,650,59603,5269
+55JBF_15,Oceania,Australia and New Zealand,Australia,0,0,0,21630,0,0,0,43906
+59GLK_29,Oceania,Australia and New Zealand,New Zealand,4,0,122,0,0,19484,34820,11106
+54HYE_11,Oceania,Australia and New Zealand,Australia,13,0,987,0,11,2928,47686,13911
+59GNP_01,Oceania,Australia and New Zealand,New Zealand,130,7694,26683,0,0,371,24635,6023
+55HEU_19,Oceania,Australia and New Zealand,Australia,0,7,16,0,0,55763,315,9435
+52KDU_14,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KUF_09,Oceania,Australia and New Zealand,Australia,23,0,0,57487,0,0,0,8026
+54LWJ_10,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,48499,0,17037
+52KHU_04,Oceania,Australia and New Zealand,Australia,0,0,1521,0,0,694,0,63321
+56JMS_22,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,19152,238,46146
+59GLK_16,Oceania,Australia and New Zealand,New Zealand,0,0,480,0,0,2106,58111,4839
+59GLL_01,Oceania,Australia and New Zealand,New Zealand,264,8415,36816,0,1,2002,13643,4395
+52JGL_24,Oceania,Australia and New Zealand,Australia,0,0,0,1,0,0,0,65535
+55HEU_26,Oceania,Australia and New Zealand,Australia,4,0,11,0,0,65348,17,156
+54LWJ_19,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,36694,0,28842
+54KUF_00,Oceania,Australia and New Zealand,Australia,0,65536,0,0,0,0,0,0
+54HYE_27,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,40526,25010
+59GLL_08,Oceania,Australia and New Zealand,New Zealand,5,166,0,963,24,64294,0,84
+55JBF_23,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,3602,0,61934
+52KDU_22,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLK_20,Oceania,Australia and New Zealand,New Zealand,0,0,82,0,0,9457,48248,7749
+56JMS_14,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,578,25,64933
+54HYE_18,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,65534,2
+59GNP_08,Oceania,Australia and New Zealand,New Zealand,2,2518,5,37,0,54413,6384,2177
+54LWJ_26,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,39951,0,25585
+53JMG_05,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+55HEU_10,Oceania,Australia and New Zealand,Australia,4,0,15,0,0,63179,152,2186
+54KYA_07,Oceania,Australia and New Zealand,Australia,0,0,21882,22701,0,17,0,20936
+52JGL_12,Oceania,Australia and New Zealand,Australia,0,0,16438,0,0,0,0,49098
+55HEU_28,Oceania,Australia and New Zealand,Australia,9,0,69,0,0,51714,246,13498
+52KDU_25,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLK_18,Oceania,Australia and New Zealand,New Zealand,0,0,33,0,0,4193,58099,3211
+55JBF_24,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,50,0,65486
+54KUF_07,Oceania,Australia and New Zealand,Australia,4,0,0,0,0,2804,0,62728
+54HYE_20,Oceania,Australia and New Zealand,Australia,0,13,0,0,0,2,65473,48
+52JGL_15,Oceania,Australia and New Zealand,Australia,0,0,14336,0,0,0,0,51200
+54KYA_00,Oceania,Australia and New Zealand,Australia,0,453,3310,29261,0,201,0,32311
+55HEU_17,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65536,0,0
+54LWJ_21,Oceania,Australia and New Zealand,Australia,2,0,0,0,0,15747,0,49787
+53JMG_02,Oceania,Australia and New Zealand,Australia,0,0,0,6153,0,0,0,59383
+59GLK_27,Oceania,Australia and New Zealand,New Zealand,4,0,262,0,3,1261,63542,464
+56JMS_13,Oceania,Australia and New Zealand,Australia,0,87,84,0,0,5833,16,59516
+54KYA_22,Oceania,Australia and New Zealand,Australia,0,0,20,42587,0,0,1024,21905
+59GLK_05,Oceania,Australia and New Zealand,New Zealand,0,0,21,0,0,1234,64266,15
+52KHU_17,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLL_12,Oceania,Australia and New Zealand,New Zealand,0,9133,34,213,550,14908,2994,37704
+54LWJ_03,Oceania,Australia and New Zealand,Australia,6,0,0,0,0,949,0,64581
+53JMG_20,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52JGL_08,Oceania,Australia and New Zealand,Australia,0,0,7260,55129,0,0,0,3147
+52KDU_07,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KUF_25,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54HYE_02,Oceania,Australia and New Zealand,Australia,0,0,437,0,0,32760,6041,26298
+59GNP_12,Oceania,Australia and New Zealand,New Zealand,3,420,0,0,0,26013,378,38722
+55JBF_06,Oceania,Australia and New Zealand,Australia,2,0,0,6974,0,920,0,57640
+52KHU_28,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54LWJ_04,Oceania,Australia and New Zealand,Australia,9,21317,0,35,0,14687,0,29488
+53JMG_27,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLL_15,Oceania,Australia and New Zealand,New Zealand,0,89,12,0,0,24,64950,461
+59GLK_02,Oceania,Australia and New Zealand,New Zealand,111,0,0,15357,23444,11,1013,25600
+52KHU_10,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KYA_25,Oceania,Australia and New Zealand,Australia,0,0,0,1307,0,0,0,64229
+56JMS_09,Oceania,Australia and New Zealand,Australia,1,203,498,0,0,56709,6248,1877
+55JBF_01,Oceania,Australia and New Zealand,Australia,26,0,0,65510,0,0,0,0
+54KUF_22,Oceania,Australia and New Zealand,Australia,11,0,333,119,0,6038,0,59035
+54HYE_05,Oceania,Australia and New Zealand,Australia,5,22,795,0,0,48,2772,61894
+59GNP_15,Oceania,Australia and New Zealand,New Zealand,0,1780,0,0,0,58210,1569,3977
+53JMG_18,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KDU_00,Oceania,Australia and New Zealand,Australia,1,65535,0,0,0,0,0,0
+59GLL_23,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,0,0,65536
+55JBF_08,Oceania,Australia and New Zealand,Australia,2,0,0,6246,0,375,0,58913
+52KHU_26,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+56JMS_00,Oceania,Australia and New Zealand,Australia,0,65536,0,0,0,0,0,0
+53JMG_11,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KYA_13,Oceania,Australia and New Zealand,Australia,8,0,52837,8011,0,1,0,4679
+55HEU_04,Oceania,Australia and New Zealand,Australia,0,0,1,0,0,0,65528,7
+52JGL_06,Oceania,Australia and New Zealand,Australia,0,0,3072,29696,0,0,0,32768
+52KDU_09,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNP_23,Oceania,Australia and New Zealand,New Zealand,44,11865,360,139,0,5186,31800,16142
+54KUF_14,Oceania,Australia and New Zealand,Australia,11,0,97,32943,0,18403,0,14082
+52KHU_19,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52JGL_01,Oceania,Australia and New Zealand,Australia,2,0,64508,0,0,0,0,1026
+55HEU_03,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65536,0,0
+54KYA_14,Oceania,Australia and New Zealand,Australia,67,0,19352,21416,0,1858,0,22843
+53JMG_16,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KHU_21,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+56JMS_07,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65536,0,0
+59GLL_24,Oceania,Australia and New Zealand,New Zealand,17,0,0,0,0,31834,0,33685
+53JMG_29,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNP_24,Oceania,Australia and New Zealand,New Zealand,10,438,15,0,0,55439,164,9470
+54KUF_13,Oceania,Australia and New Zealand,Australia,29,0,0,0,0,20145,0,45362
+51JXK_15,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,928,0,64608
+51JXK_12,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_03,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_04,Oceania,Australia and New Zealand,Australia,5,0,0,0,0,177,0,65354
+51JXK_24,Oceania,Australia and New Zealand,Australia,77,0,0,0,0,0,0,65459
+51JXK_23,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_03,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_04,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+53JMG_17,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLL_25,Oceania,Australia and New Zealand,New Zealand,0,330,272,0,79,50049,371,14435
+56JMS_06,Oceania,Australia and New Zealand,Australia,26,197,264,0,0,50221,10884,3944
+52KHU_20,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52JGL_00,Oceania,Australia and New Zealand,Australia,0,65536,0,0,0,0,0,0
+54KYA_15,Oceania,Australia and New Zealand,Australia,0,0,50178,7167,0,0,0,8191
+55HEU_02,Oceania,Australia and New Zealand,Australia,12,2786,298,0,0,2497,42328,17615
+59GNP_25,Oceania,Australia and New Zealand,New Zealand,5,2,0,0,0,55557,863,9109
+54KUF_12,Oceania,Australia and New Zealand,Australia,3,0,0,530,0,15779,0,49224
+53JMG_28,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+55HEU_05,Oceania,Australia and New Zealand,Australia,0,0,16,0,0,0,12,65508
+54KYA_12,Oceania,Australia and New Zealand,Australia,2,0,54220,11264,0,0,0,50
+52KDU_08,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52JGL_07,Oceania,Australia and New Zealand,Australia,20,0,150,0,0,21227,0,44139
+56JMS_01,Oceania,Australia and New Zealand,Australia,508,920,45186,0,0,325,18013,584
+52KHU_27,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLL_22,Oceania,Australia and New Zealand,New Zealand,106,0,27,0,2666,10544,0,52193
+55JBF_09,Oceania,Australia and New Zealand,Australia,6,0,0,44018,0,0,0,21512
+53JMG_10,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNP_22,Oceania,Australia and New Zealand,New Zealand,33,0,75,62,0,61216,858,3292
+54KUF_15,Oceania,Australia and New Zealand,Australia,22,0,0,0,0,2724,0,62790
+52KHU_18,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KYA_24,Oceania,Australia and New Zealand,Australia,0,0,0,2,0,0,0,65534
+54LWJ_05,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,10985,0,54551
+53JMG_26,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLK_03,Oceania,Australia and New Zealand,New Zealand,1,0,0,0,6144,0,0,59391
+52KHU_11,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLL_14,Oceania,Australia and New Zealand,New Zealand,3,24,1279,0,0,2184,34707,27339
+52KDU_01,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+55JBF_00,Oceania,Australia and New Zealand,Australia,4,2693,0,15133,0,3043,0,44663
+56JMS_08,Oceania,Australia and New Zealand,Australia,0,63,70,0,0,4835,29871,30697
+53JMG_19,Oceania,Australia and New Zealand,Australia,0,0,0,314,0,2,0,65220
+54KUF_23,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,3762,0,61774
+59GNP_14,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,55200,6108,4228
+54HYE_04,Oceania,Australia and New Zealand,Australia,0,0,34,0,0,0,65364,138
+59GLL_13,Oceania,Australia and New Zealand,New Zealand,11,891,12,210,18063,22015,0,24334
+59GLK_04,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,65536,0,0
+52KHU_16,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54LWJ_02,Oceania,Australia and New Zealand,Australia,5,1,42,0,0,56548,0,8940
+53JMG_21,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KYA_23,Oceania,Australia and New Zealand,Australia,0,0,0,41971,0,0,0,23565
+54KUF_24,Oceania,Australia and New Zealand,Australia,137,0,0,11264,0,8,0,54127
+59GNP_13,Oceania,Australia and New Zealand,New Zealand,0,6,0,0,0,64314,195,1021
+54HYE_03,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65536,0,0
+52KHU_29,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,905,0,64631
+55JBF_07,Oceania,Australia and New Zealand,Australia,5,0,0,23003,0,257,0,42271
+52KDU_06,Oceania,Australia and New Zealand,Australia,0,0,0,12288,0,0,0,53248
+52JGL_09,Oceania,Australia and New Zealand,Australia,14,0,900,1165,0,45,0,63412
+51KWR_02,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_05,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_22,Oceania,Australia and New Zealand,Australia,14,0,7,0,0,0,0,65515
+51JXK_25,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_02,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_05,Oceania,Australia and New Zealand,Australia,2,0,0,0,0,0,0,65534
+51JXK_13,Oceania,Australia and New Zealand,Australia,8,0,37,0,0,3092,0,62399
+51JXK_14,Oceania,Australia and New Zealand,Australia,0,0,0,1024,0,0,0,64512
+55JFN_05,Oceania,Australia and New Zealand,Australia,11,0,0,0,0,0,107,65418
+55JFN_02,Oceania,Australia and New Zealand,Australia,39,0,0,18055,0,3964,337,43141
+59GNM_24,Oceania,Australia and New Zealand,New Zealand,0,0,339,0,0,457,64703,37
+59GNM_23,Oceania,Australia and New Zealand,New Zealand,114,1118,17,0,21423,2589,1024,39251
+52KCU_09,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KCU_00,Oceania,Australia and New Zealand,Australia,0,695,0,22270,0,0,0,42571
+59GNM_15,Oceania,Australia and New Zealand,New Zealand,0,65536,0,0,0,0,0,0
+52KCU_07,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNM_12,Oceania,Australia and New Zealand,New Zealand,3,4992,2751,0,0,4781,51993,1016
+55JFN_03,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65536,0,0
+55JFN_04,Oceania,Australia and New Zealand,Australia,29,0,1408,0,0,141,58696,5262
+52KCU_06,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNM_13,Oceania,Australia and New Zealand,New Zealand,52,6497,55,0,46191,787,0,11954
+52KCU_01,Oceania,Australia and New Zealand,Australia,184,0,0,57161,0,0,0,8191
+59GNM_14,Oceania,Australia and New Zealand,New Zealand,32,40,3033,0,0,2808,58719,904
+59GNM_22,Oceania,Australia and New Zealand,New Zealand,4,0,1017,0,0,369,64070,76
+52KCU_08,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNM_25,Oceania,Australia and New Zealand,New Zealand,3,0,1,0,6046,413,1047,58026
+55JFN_22,Oceania,Australia and New Zealand,Australia,1,4,0,0,0,31293,530,33708
+55JFN_25,Oceania,Australia and New Zealand,Australia,31,0,38,0,0,65313,50,104
+55JFN_13,Oceania,Australia and New Zealand,Australia,20,221,2,0,0,64477,187,629
+55JFN_14,Oceania,Australia and New Zealand,Australia,111,7,2868,0,0,10814,13357,38379
+52KCU_29,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNM_03,Oceania,Australia and New Zealand,New Zealand,545,0,0,5940,45535,0,0,13516
+52KCU_16,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNM_04,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,65351,8,177
+52KCU_11,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KCU_18,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KCU_27,Oceania,Australia and New Zealand,Australia,2,0,0,0,0,0,0,65534
+52KCU_20,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+55JFN_15,Oceania,Australia and New Zealand,Australia,2085,183,60,0,0,48123,458,14627
+55JFN_12,Oceania,Australia and New Zealand,Australia,39,52,67,884,0,1971,3435,59088
+55JFN_24,Oceania,Australia and New Zealand,Australia,5,685,488,0,0,1222,7287,55849
+55JFN_23,Oceania,Australia and New Zealand,Australia,0,29,53,0,0,826,1545,63083
+52KCU_21,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KCU_19,Oceania,Australia and New Zealand,Australia,2,0,0,0,0,0,0,65534
+52KCU_26,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNM_05,Oceania,Australia and New Zealand,New Zealand,0,0,48,0,0,57,65370,61
+52KCU_10,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KCU_28,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNM_02,Oceania,Australia and New Zealand,New Zealand,0,0,0,3072,0,0,0,62464
+52KCU_17,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KDU_20,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KUF_02,Oceania,Australia and New Zealand,Australia,7,0,0,0,0,62922,0,2607
+54HYE_25,Oceania,Australia and New Zealand,Australia,1,3062,395,0,0,235,60133,1710
+55JBF_21,Oceania,Australia and New Zealand,Australia,4,0,0,0,0,17138,0,48394
+56JMS_29,Oceania,Australia and New Zealand,Australia,7,0,3,0,0,62820,111,2595
+55HEU_12,Oceania,Australia and New Zealand,Australia,243,0,1524,0,0,4596,53026,6147
+54KYA_05,Oceania,Australia and New Zealand,Australia,13,0,16354,37320,0,0,0,11849
+52JGL_10,Oceania,Australia and New Zealand,Australia,0,0,20512,12288,0,0,0,32736
+59GLK_22,Oceania,Australia and New Zealand,New Zealand,1,0,7,0,0,12016,18510,35002
+56JMS_16,Oceania,Australia and New Zealand,Australia,0,63320,8,0,0,1984,52,172
+54LWJ_24,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,42335,0,23201
+53JMG_07,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KHU_08,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+55JBF_26,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KUF_05,Oceania,Australia and New Zealand,Australia,2,0,0,0,0,23195,0,42339
+54HYE_22,Oceania,Australia and New Zealand,Australia,0,16,425,0,0,55120,4463,5512
+52KDU_27,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52JGL_28,Oceania,Australia and New Zealand,Australia,0,0,928,0,0,7,0,64601
+54LWJ_23,Oceania,Australia and New Zealand,Australia,16,33277,0,0,0,16975,0,15268
+53JMG_00,Oceania,Australia and New Zealand,Australia,0,0,0,14256,0,0,0,51280
+55JBF_19,Oceania,Australia and New Zealand,Australia,246,0,0,38540,0,326,0,26424
+59GLK_25,Oceania,Australia and New Zealand,New Zealand,11,509,325,0,2,11942,34344,18403
+56JMS_11,Oceania,Australia and New Zealand,Australia,2,285,695,0,0,46383,752,17419
+52JGL_17,Oceania,Australia and New Zealand,Australia,0,0,3265,0,0,30,0,62241
+52KDU_18,Oceania,Australia and New Zealand,Australia,0,0,0,8192,0,0,0,57344
+54KYA_02,Oceania,Australia and New Zealand,Australia,0,0,267,60381,0,0,0,4888
+55HEU_15,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65503,14,19
+59GNP_04,Oceania,Australia and New Zealand,New Zealand,0,0,74,0,0,14,65323,125
+54HYE_14,Oceania,Australia and New Zealand,Australia,0,53,2435,0,0,1,62241,806
+53JMG_09,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+56JMS_18,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,61994,2988,554
+55JBF_10,Oceania,Australia and New Zealand,Australia,21,0,0,6756,0,6,0,58753
+52KDU_11,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLL_04,Oceania,Australia and New Zealand,New Zealand,2,36,2,0,82,65399,0,15
+56JMS_27,Oceania,Australia and New Zealand,Australia,1,0,0,0,0,8,2,65525
+52KHU_01,Oceania,Australia and New Zealand,Australia,0,0,52224,0,0,0,0,13312
+59GLK_13,Oceania,Australia and New Zealand,New Zealand,0,3,176,0,0,9087,34471,21799
+54LWJ_15,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,1981,0,63555
+55HEU_23,Oceania,Australia and New Zealand,Australia,0,0,36,0,0,65026,15,459
+52JGL_21,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52JGL_19,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KDU_16,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+55JBF_17,Oceania,Australia and New Zealand,Australia,45,1,0,38490,0,24,0,26976
+59GNP_03,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,65528,0,8
+54HYE_13,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,10,65332,194
+52KDU_29,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52JGL_26,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+55HEU_24,Oceania,Australia and New Zealand,Australia,4,0,27,0,0,51631,166,13708
+54LWJ_12,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,15161,0,50375
+56JMS_20,Oceania,Australia and New Zealand,Australia,0,6345,1589,0,0,57373,226,3
+52KHU_06,Oceania,Australia and New Zealand,Australia,0,0,16,0,0,0,0,65520
+59GLK_14,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,45138,5353,15045
+59GLL_03,Oceania,Australia and New Zealand,New Zealand,0,1,0,0,65448,87,0,0
+55JBF_28,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,13689,0,51847
+51JXH_15,Oceania,Australia and New Zealand,Australia,0,0,0,107,0,0,0,65429
+51KWR_12,Oceania,Australia and New Zealand,Australia,6,10159,0,1,0,0,0,55370
+51KWR_15,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_12,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,390,0,65146
+51JXH_24,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_23,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_03,Oceania,Australia and New Zealand,Australia,0,0,0,2048,0,199,0,63289
+51JXK_04,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_24,Oceania,Australia and New Zealand,Australia,0,0,0,1,0,0,0,65535
+51JXH_23,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+55JBF_16,Oceania,Australia and New Zealand,Australia,13,0,0,28099,0,39,0,37385
+54HYE_12,Oceania,Australia and New Zealand,Australia,1,14,350,0,0,867,57917,6387
+59GNP_02,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,2171,180,0,63185
+52KDU_17,Oceania,Australia and New Zealand,Australia,0,0,0,10240,0,0,0,55296
+52JGL_18,Oceania,Australia and New Zealand,Australia,0,0,0,76,0,0,0,65460
+54LWJ_13,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,3863,0,61673
+59GLL_02,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,65357,0,0,179
+55JBF_29,Oceania,Australia and New Zealand,Australia,35,0,0,5893,0,39,0,59569
+52KHU_07,Oceania,Australia and New Zealand,Australia,0,0,42,0,0,0,0,65494
+56JMS_21,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,26207,17,39312
+59GLK_15,Oceania,Australia and New Zealand,New Zealand,7,0,0,0,2,9661,0,55866
+52JGL_27,Oceania,Australia and New Zealand,Australia,0,0,1977,3073,0,71,0,60415
+52KDU_28,Oceania,Australia and New Zealand,Australia,0,5741,4259,37255,0,2,0,18279
+55HEU_25,Oceania,Australia and New Zealand,Australia,24,0,17,0,0,65374,5,116
+52KDU_10,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+53JMG_08,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54HYE_15,Oceania,Australia and New Zealand,Australia,0,0,55,0,0,39213,24861,1407
+59GNP_05,Oceania,Australia and New Zealand,New Zealand,2,0,34,0,0,2462,8,63030
+55JBF_11,Oceania,Australia and New Zealand,Australia,2,0,0,54705,0,28,0,10801
+56JMS_19,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,44971,13,20552
+55HEU_22,Oceania,Australia and New Zealand,Australia,0,1,43,0,0,58446,140,6906
+52JGL_20,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,50,0,65486
+52KHU_00,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+56JMS_26,Oceania,Australia and New Zealand,Australia,4,0,0,0,0,61072,462,3998
+59GLK_12,Oceania,Australia and New Zealand,New Zealand,0,696,420,0,93,3396,60092,839
+59GLL_05,Oceania,Australia and New Zealand,New Zealand,0,12,38,0,0,24,65422,40
+54LWJ_14,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52JGL_29,Oceania,Australia and New Zealand,Australia,1,0,25,0,0,2914,0,62596
+52KDU_26,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+55JBF_27,Oceania,Australia and New Zealand,Australia,20,0,0,14316,0,0,0,51200
+52KHU_09,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,1024,0,64512
+54KUF_04,Oceania,Australia and New Zealand,Australia,17,0,0,0,0,53894,0,11625
+54HYE_23,Oceania,Australia and New Zealand,Australia,0,0,68,0,0,0,65431,37
+52KDU_19,Oceania,Australia and New Zealand,Australia,0,0,0,14352,0,0,0,51184
+52JGL_16,Oceania,Australia and New Zealand,Australia,0,0,2048,48,0,0,0,63440
+55HEU_14,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65475,3,58
+54KYA_03,Oceania,Australia and New Zealand,Australia,0,0,267,0,0,702,0,64567
+54LWJ_22,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,41526,0,24010
+53JMG_01,Oceania,Australia and New Zealand,Australia,0,0,0,1103,0,0,0,64433
+59GLK_24,Oceania,Australia and New Zealand,New Zealand,11,0,392,0,0,9567,47704,7862
+56JMS_10,Oceania,Australia and New Zealand,Australia,0,0,1302,0,0,19301,44901,32
+55JBF_18,Oceania,Australia and New Zealand,Australia,57,0,0,4236,0,5070,0,56173
+54KUF_03,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54HYE_24,Oceania,Australia and New Zealand,Australia,0,0,399,0,0,1388,58760,4989
+56JMS_28,Oceania,Australia and New Zealand,Australia,71,63658,2,0,0,1779,24,2
+55JBF_20,Oceania,Australia and New Zealand,Australia,15,0,0,18322,0,0,0,47199
+52KDU_21,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLK_23,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,51692,0,13844
+56JMS_17,Oceania,Australia and New Zealand,Australia,0,50811,0,0,0,14710,15,0
+54LWJ_25,Oceania,Australia and New Zealand,Australia,5,727,0,0,0,24992,0,39812
+53JMG_06,Oceania,Australia and New Zealand,Australia,0,94,0,10204,0,0,0,55238
+54KYA_04,Oceania,Australia and New Zealand,Australia,0,0,108,0,0,0,0,65428
+55HEU_13,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65536,0,0
+52JGL_11,Oceania,Australia and New Zealand,Australia,0,0,1083,7168,0,19,0,57266
+51KWR_25,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_22,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_05,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_02,Oceania,Australia and New Zealand,Australia,0,0,1,1024,0,2061,0,62450
+51JXH_25,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_22,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_14,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXH_13,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,400,0,65136
+51JXH_14,Oceania,Australia and New Zealand,Australia,0,0,0,43,0,31,0,65462
+51KWR_13,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_11,Oceania,Australia and New Zealand,Australia,0,0,4,0,0,0,0,65532
+51JXH_09,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,372,0,65164
+51JXK_16,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_29,Oceania,Australia and New Zealand,Australia,43,0,5,0,0,0,0,65488
+51KWR_09,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_20,Oceania,Australia and New Zealand,Australia,135,0,9,0,0,1570,0,63822
+51KWR_00,Oceania,Australia and New Zealand,Australia,0,65536,0,0,0,0,0,0
+51JXH_07,Oceania,Australia and New Zealand,Australia,0,0,0,1,0,55,0,65480
+51JXH_00,Oceania,Australia and New Zealand,Australia,1,0,0,65535,0,0,0,0
+51KWR_07,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_27,Oceania,Australia and New Zealand,Australia,6,0,0,0,0,0,0,65530
+51JXK_18,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNP_29,Oceania,Australia and New Zealand,New Zealand,4,1,0,0,0,52348,443,12740
+54LWJ_07,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,17046,0,48490
+53JMG_24,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLK_01,Oceania,Australia and New Zealand,New Zealand,621,2282,34245,0,100,7881,4674,15733
+52KHU_13,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLL_16,Oceania,Australia and New Zealand,New Zealand,140,724,138,0,192,5617,152,58573
+54KYA_26,Oceania,Australia and New Zealand,Australia,0,63,3,8,0,0,0,65462
+59GLL_29,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,226,0,65310
+55JBF_02,Oceania,Australia and New Zealand,Australia,9,0,0,0,0,60701,0,4826
+54KUF_21,Oceania,Australia and New Zealand,Australia,4,39057,0,2529,0,470,0,23476
+54HYE_06,Oceania,Australia and New Zealand,Australia,0,0,317,0,0,31042,17286,16891
+59GNP_16,Oceania,Australia and New Zealand,New Zealand,5,60,168,0,0,46505,1229,17569
+54KYA_19,Oceania,Australia and New Zealand,Australia,0,0,0,23552,0,0,0,41984
+52KDU_03,Oceania,Australia and New Zealand,Australia,1,0,0,0,0,690,0,64845
+54KYA_21,Oceania,Australia and New Zealand,Australia,0,0,1024,38912,0,0,1024,24576
+59GLL_11,Oceania,Australia and New Zealand,New Zealand,14,1225,0,26,40897,19177,0,4197
+59GLK_06,Oceania,Australia and New Zealand,New Zealand,1,3,29,0,1,127,2,65373
+52KHU_14,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54LWJ_00,Oceania,Australia and New Zealand,Australia,0,65536,0,0,0,0,0,0
+53JMG_23,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KUF_19,Oceania,Australia and New Zealand,Australia,0,0,38,84,0,14283,0,51131
+52KDU_04,Oceania,Australia and New Zealand,Australia,8,0,0,0,0,366,0,65162
+55HEU_09,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65536,0,0
+54KUF_26,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54HYE_01,Oceania,Australia and New Zealand,Australia,15,17,63235,0,0,419,337,1513
+59GNP_11,Oceania,Australia and New Zealand,New Zealand,0,3121,0,0,0,61590,2,823
+55JBF_05,Oceania,Australia and New Zealand,Australia,0,0,0,13199,0,10,0,52327
+52JGL_02,Oceania,Australia and New Zealand,Australia,10,0,0,50176,0,0,0,15350
+54KYA_17,Oceania,Australia and New Zealand,Australia,0,0,1,990,0,0,0,64545
+55HEU_00,Oceania,Australia and New Zealand,Australia,0,65536,0,0,0,0,0,0
+53JMG_15,Oceania,Australia and New Zealand,Australia,0,0,0,141,0,0,0,65395
+54HYE_08,Oceania,Australia and New Zealand,Australia,9,153,1049,0,0,38282,13252,12791
+59GNP_18,Oceania,Australia and New Zealand,New Zealand,0,4,4,0,0,60878,3837,813
+59GLL_27,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,25681,0,39855
+52KHU_22,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+56JMS_04,Oceania,Australia and New Zealand,Australia,0,0,58,0,0,255,63773,1450
+54KYA_28,Oceania,Australia and New Zealand,Australia,0,0,0,9,0,0,0,65527
+59GLL_18,Oceania,Australia and New Zealand,New Zealand,0,82,79,0,0,235,12984,52156
+59GNP_27,Oceania,Australia and New Zealand,New Zealand,12,125,1,7,0,56572,778,8041
+54KUF_10,Oceania,Australia and New Zealand,Australia,13,0,0,29028,0,196,0,36299
+54LWJ_09,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,4544,0,60992
+52KHU_25,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+56JMS_03,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65536,0,0
+59GLL_20,Oceania,Australia and New Zealand,New Zealand,362,47,0,0,19609,28202,0,17316
+54KUF_28,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+53JMG_12,Oceania,Australia and New Zealand,Australia,0,0,248,0,0,0,0,65288
+55HEU_07,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65536,0,0
+54KYA_10,Oceania,Australia and New Zealand,Australia,119,0,53069,5131,0,12,0,7205
+52JGL_05,Oceania,Australia and New Zealand,Australia,0,0,0,22528,0,0,0,43008
+59GNP_20,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,48928,0,16608
+54KUF_17,Oceania,Australia and New Zealand,Australia,8,0,0,58232,0,499,0,6797
+59GLK_08,Oceania,Australia and New Zealand,New Zealand,0,0,1399,0,1,1873,164,62099
+51JXK_26,Oceania,Australia and New Zealand,Australia,5,0,0,0,0,1450,0,64081
+51JXH_01,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,3188,0,62348
+51KWR_06,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_19,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51KWR_01,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,173,0,65363
+51JXH_06,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_21,Oceania,Australia and New Zealand,Australia,0,0,15,0,0,375,0,65146
+51JXK_17,Oceania,Australia and New Zealand,Australia,5,0,0,8276,0,0,0,57255
+51KWR_08,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_28,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+51JXK_10,Oceania,Australia and New Zealand,Australia,0,0,0,1024,0,0,0,64512
+51JXH_08,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,69,0,65467
+54KYA_11,Oceania,Australia and New Zealand,Australia,10,0,55778,9214,0,110,0,424
+55HEU_06,Oceania,Australia and New Zealand,Australia,0,0,66,0,0,30708,13,34749
+52JGL_04,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLL_21,Oceania,Australia and New Zealand,New Zealand,89,124,0,0,0,20914,0,44409
+56JMS_02,Oceania,Australia and New Zealand,Australia,5,7372,0,0,0,29477,72,28610
+52KHU_24,Oceania,Australia and New Zealand,Australia,0,0,87,29,0,0,0,65420
+53JMG_13,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KUF_29,Oceania,Australia and New Zealand,Australia,0,0,46,0,0,0,0,65490
+59GNP_21,Oceania,Australia and New Zealand,New Zealand,12,7,0,0,0,57351,36,8130
+54KUF_16,Oceania,Australia and New Zealand,Australia,44,236,20,57,0,46782,0,18397
+59GLK_09,Oceania,Australia and New Zealand,New Zealand,0,0,7,0,7,35042,457,30023
+59GNP_19,Oceania,Australia and New Zealand,New Zealand,14,1045,64,184,0,48542,14384,1303
+54HYE_09,Oceania,Australia and New Zealand,Australia,3,134,2127,0,0,188,40876,22208
+53JMG_14,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+56JMS_05,Oceania,Australia and New Zealand,Australia,0,0,3,0,0,227,224,65082
+52KHU_23,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GLL_26,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,0,4,0,65532
+52JGL_03,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,65410,0,126
+55HEU_01,Oceania,Australia and New Zealand,Australia,0,1221,43606,0,0,882,13804,6023
+54KYA_16,Oceania,Australia and New Zealand,Australia,0,0,17475,5595,0,7,0,42459
+59GLL_19,Oceania,Australia and New Zealand,New Zealand,0,4908,0,0,253,60305,0,70
+54LWJ_08,Oceania,Australia and New Zealand,Australia,0,29,2,0,0,41683,0,23822
+59GNP_26,Oceania,Australia and New Zealand,New Zealand,0,6,0,0,0,64137,149,1244
+54KUF_11,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,13245,0,52291
+54KYA_29,Oceania,Australia and New Zealand,Australia,0,0,0,4,0,0,0,65532
+59GLK_07,Oceania,Australia and New Zealand,New Zealand,40,0,693,0,9,33035,166,31593
+52KHU_15,Oceania,Australia and New Zealand,Australia,0,0,1,0,0,986,0,64549
+59GLL_10,Oceania,Australia and New Zealand,New Zealand,113,3927,9352,0,78,4760,10342,36964
+54KUF_18,Oceania,Australia and New Zealand,Australia,1,1823,0,4618,0,418,0,58676
+54LWJ_01,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,195,0,65341
+53JMG_22,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KYA_20,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+54KUF_27,Oceania,Australia and New Zealand,Australia,0,14212,0,0,0,0,0,51324
+59GNP_10,Oceania,Australia and New Zealand,New Zealand,57,705,681,43,0,6327,54129,3594
+54HYE_00,Oceania,Australia and New Zealand,Australia,1,36715,1151,0,0,636,3106,23927
+55JBF_04,Oceania,Australia and New Zealand,Australia,0,0,0,4150,0,57,0,61329
+52KDU_05,Oceania,Australia and New Zealand,Australia,0,0,0,9795,0,0,0,55741
+55HEU_08,Oceania,Australia and New Zealand,Australia,41,41,2437,0,0,59085,709,3223
+54KYA_27,Oceania,Australia and New Zealand,Australia,0,0,0,1719,0,0,0,63817
+54LWJ_06,Oceania,Australia and New Zealand,Australia,0,374,0,0,0,8828,0,56334
+53JMG_25,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+59GNP_28,Oceania,Australia and New Zealand,New Zealand,2,0,0,0,0,33457,33,32044
+59GLL_17,Oceania,Australia and New Zealand,New Zealand,124,102,2164,0,99,1165,284,61598
+59GLK_00,Oceania,Australia and New Zealand,New Zealand,0,52715,2,0,29,905,994,10891
+52KHU_12,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,1909,0,63627
+54KYA_18,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,0,0,65536
+52KDU_02,Oceania,Australia and New Zealand,Australia,6,0,0,0,0,16274,0,49256
+59GLL_28,Oceania,Australia and New Zealand,New Zealand,0,64623,0,0,0,0,0,913
+55JBF_03,Oceania,Australia and New Zealand,Australia,180,0,0,0,0,2046,0,63310
+54KUF_20,Oceania,Australia and New Zealand,Australia,0,0,0,22436,0,77,0,43023
+59GNP_17,Oceania,Australia and New Zealand,New Zealand,6,2314,10,0,0,40477,13180,9549
+54HYE_07,Oceania,Australia and New Zealand,Australia,1,0,386,0,0,1170,57804,6175
+59GNM_20,Oceania,Australia and New Zealand,New Zealand,0,0,226,0,0,505,64741,64
+59GNM_18,Oceania,Australia and New Zealand,New Zealand,5,100,1286,0,0,767,61032,2346
+59GNM_27,Oceania,Australia and New Zealand,New Zealand,1,0,0,751,8832,0,0,55952
+52KCU_04,Oceania,Australia and New Zealand,Australia,0,0,0,1,0,0,0,65535
+59GNM_11,Oceania,Australia and New Zealand,New Zealand,0,0,0,0,169,2224,0,63143
+59GNM_29,Oceania,Australia and New Zealand,New Zealand,8,103,617,0,0,1308,63389,111
+52KCU_03,Oceania,Australia and New Zealand,Australia,0,0,0,0,0,23,0,65513
+59GNM_16,Oceania,Australia and New Zealand,New Zealand,5,2048,1311,0,0,3463,56757,1952
+55JFN_01,Oceania,Australia and New Zealand,Australia,14,0,52987,0,0,79,4428,8028
+55JFN_06,Oceania,Australia and New Zealand,Australia,101,105,195,0,0,56345,939,7851
+55JFN_08,Oceania,Australia and New Zealand,Australia,66,0,4,0,0,3549,181,61736
+59GNM_28,Oceania,Australia and New Zealand,New Zealand,0,15071,1579,0,0,2106,46431,349
+52KCU_02,Oceania,Australia and New Zealand,Australia,19,0,0,4853,0,6061,0,54603
+59GNM_17,Oceania,Australia and New Zealand,New Zealand,0,84,105,0,0,12449,0,52898
+52KCU_05,Oceania,Australia and New Zealand,Australia,0,0,0,1024,0,0,0,64512
+59GNM_10,Oceania,Australia and New Zealand,New Zealand,17,13,629,0,0,1053,63772,52
+59GNM_19,Oceania,Australia and New Zealand,New Zealand,7,2621,1663,0,0,6739,38160,16346
+59GNM_26,Oceania,Australia and New Zealand,New Zealand,0,0,309,0,0,847,61993,2387
+59GNM_21,Oceania,Australia and New Zealand,New Zealand,0,787,390,0,0,171,64126,62
+55JFN_09,Oceania,Australia and New Zealand,Australia,100,0,0,0,0,35711,56,29669
+55JFN_07,Oceania,Australia and New Zealand,Australia,36,0,3144,0,0,1770,966,59620
+55JFN_00,Oceania,Australia and New Zealand,Australia,39,49942,322,0,0,4628,2126,8479

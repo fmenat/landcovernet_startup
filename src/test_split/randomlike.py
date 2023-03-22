@@ -20,10 +20,10 @@ def random_selection(df_regions: pd.DataFrame, ratio:float=0, n_samples: int = 0
 
 if __name__ == "__main__":
     folder_ = "./"
-    continent_ = "eu"
+    continent_ = "sa"
     ratio_ = 0.2
 
-    info_sum_f = pd.read_csv(f"{folder_}/metadata_dates/{continent_}/region_label_freq.csv", index_col=0)
+    info_sum_f = pd.read_csv(f"{folder_}/metadata/{continent_}/region_label_freq.csv", index_col=0)
     
     file_name = f"{folder_}/split_samples/{continent_}/random_{int(ratio_*100)}p.csv"
     random_selection(info_sum_f, ratio=ratio_).to_csv(file_name)

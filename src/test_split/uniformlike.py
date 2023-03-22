@@ -27,9 +27,9 @@ def uniform_dist_selection(df_regions: pd.DataFrame, ratio:float=0,mode="test"):
 
 if __name__ == "__main__":
     folder_ = "./"
-    continent_ = "eu"
+    continent_ = "sa"
     
-    info_sum_f = pd.read_csv(f"{folder_}/metadata_dates/{continent_}/region_label_freq.csv", index_col=0)
+    info_sum_f = pd.read_csv(f"{folder_}/metadata/{continent_}/region_label_freq.csv", index_col=0)
     
     ratio_ = 0.2
     uniform_dist_selection(info_sum_f, ratio=ratio_, mode="test").to_csv(f"{folder_}/split_samples/{continent_}/uniform_{int(ratio_*100)}p_test.csv")

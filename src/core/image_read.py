@@ -73,6 +73,37 @@ class LandCoverBuilder(object):
             bbox=bbox
         )
     
+    def get_dates(self, indx):
+        dict_labels = self.get_label(indx)   
+            
+        views_info = {v: [] for v in self.view_names} 
+        for v in dict_labels["label_info_indx"]["links"]:
+            if v["rel"] != "source":
+                continue
+            if "source_sentinel_1" in  v["href"]:
+                views_info["sentinel_1"].append( self.download_folder /  v["href"].split("../")[-1])
+            elif "source_sentinel_2" in  v["href"]:
+                views_info["sentinel_2"].append( self.download_folder /  v["href"].split("../")[-1])
+            elif "source_landsat_8" in  v["href"]:
+                views_info["landsat_8"].append( self.download_folder /  v["href"].split("../")[-1])
+            
+        views_dates = {v: [] for v in self.view_names}
+        for view_name in self.view_names:
+            views_p_times,times_info  = [], []
+            for folder_time in views_info[view_name]:
+                times_info.append(str(folder_time.parent).split("_")[-1])
+            views_dates[view_name] = times_info
+            
+        return {
+                "id":dict_labels["identifier"],
+                    "bbox": dict_labels["bbox"],
+                    "geometry": dict_labels["geometry"],
+                    "label_info": dict_labels["label_info_indx"], 
+                    "views_info": views_info, 
+                    "views_date": views_dates,
+                    "view_names": self.view_names
+                    }
+    
     def __len__(self):
         return len(self.labels_catalog["links"][self.skip_labels:])
         

@@ -25,7 +25,7 @@ if __name__ == "__main__":
     continent_ = "eu"
     countries=["Germany"]
     
-    info_countries = pd.read_csv(f"{folder_}/split_samples/{continent_}/info_countries.csv", index_col=0)
+    info_countries = pd.read_csv(f"{folder_}/metadata/{continent_}/info_countries.csv", index_col=0)
     
     info_countries_ext = countries_selection(info_countries, countries=countries, mode="test")
     info_countries_ext = info_countries_ext[~info_countries_ext.index.duplicated(keep='first')]
